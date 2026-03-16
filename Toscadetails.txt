@@ -1,0 +1,22 @@
+Tosca:
+•Tosca automation tool invented by Trisentis comapnay. 
+•Trisent is software testng tool by using this 
+tool we can do end-end testing for software applications, we can perform regression,functional testing on sw apps without scripts  or coding knowledge.
+
+•We can perform apitesting, regression, gui, browser performance testing, desktop, mobileapp, datawarehouse and exploratory testing.
+Main feature: model based testing
+Model basic testing. If we can change elment of application then that change ill immediate reflect to 
+central model then so all testcases associted with app will test the application.
+Adv:
+1) no coding exp scriptless testing tool
+2)Completely AIntelligence based tool
+ drag and drop elements only
+3)supports common technology tools like html, jva,oracle, sap 	which are more demand in it
+4)supports sap ui and associated technology
+
+limitations:
+5)tosca is a paid version tool not open source we need to purchase license to use this tool.
+6)If we are very habituated to use this tosca tool in future any scenaio to writecode whenever necessary to do automation
+  eg: for some task codeing knowledge required.
+
+
